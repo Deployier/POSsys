@@ -1,5 +1,3 @@
 #Demo
 
 # POSsys
-# POSsys
-# POSsys
